@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="SecretFlow - SecretFlow Season of Dev Contributor - 2025-05-19.png" width="150" alt="SecretFlow Contributor Badge">
+
+
 <!--
 **liuyutong619/liuyutong619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
