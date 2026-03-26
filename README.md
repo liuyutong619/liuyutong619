@@ -13,7 +13,6 @@
   
   </div> -->
 
-  ### 🏆 Achievements & Awards
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 20px;">
   <a href="https://github.com/secretflow/secretflow" target="_blank" title="SecretFlow Season of Dev Contributor - 2025">
